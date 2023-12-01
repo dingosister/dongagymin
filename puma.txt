@@ -1,0 +1,6 @@
+team : pumas
+
+manager : jude
+
+members :
+- Jinho

@@ -6,3 +6,4 @@ members :
 - Jinho
 - InHyeok
 - Seop
+- George

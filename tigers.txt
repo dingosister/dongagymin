@@ -1,6 +1,6 @@
 team : Tigers
 
-manager : MiSeon
+manager : gyumin
 
 coach : Grace
 
